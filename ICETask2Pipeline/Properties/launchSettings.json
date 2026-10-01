@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ICETask2Pipeline": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7083",
+      "launchBrowser": false
+    }
+  }
+}
